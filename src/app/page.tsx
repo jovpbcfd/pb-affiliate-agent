@@ -14,7 +14,7 @@ export default function Home() {
 				/>
 			</div>
 			<div className="max-w-[1000px] mx-auto text-center pt-5 pb-10 md:pb-20 md:pt-10">
-				<div className="mt-4 md:mt-20">
+				<div className="mt-4 md:mt-10">
 					<p className="text-white md:text-xl">When messaging me, please <span className="text-[#ffe400]">provide a screenshot of your text message.</span></p>
 				</div>
 				<h1 className="mt-5 leading-5 md:leading-[28px] text-[#ffe400] text-md md:text-[1.6rem] font-bold md:font-extrabold md:mt-10">Message me on 
