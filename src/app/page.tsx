@@ -13,7 +13,7 @@ export default function Home() {
 					className="w-full h-auto"
 				/>
 			</div>
-			<div className="max-w-[400px] mx-auto text-center pt-5 md:pt-10">
+			<div className="max-w-[400px] mx-auto text-center pt-5 pb-10 md:pb-20 md:pt-10">
 				<h1 className="leading-5 text-[#ffe400] text-md md:text-xl font-bold md:leading-7 md:mt-20">Message me on 
 					<br />
 				 Telegram to claim:

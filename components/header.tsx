@@ -92,7 +92,7 @@ export default function Header() {
               </Link> */}
 							<Link
 								href="https://pb888.pro/RjkESd"
-								className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)] px-4 py-2 rounded-full shadow-md text-center
+								className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)] px-4 py-1 rounded-full shadow-md text-center
                             transition-transform transform uppercase hover:scale-105 duration-300
                             md:w-[150px]
                             flex items-center justify-center
@@ -136,7 +136,7 @@ export default function Header() {
 						href="https://pb888.pro/RjkESd"
 						className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)]
         w-full
-         py-3 rounded-full shadow-md text-center lg:px-4
+         py-2 rounded-full shadow-md text-center lg:px-4
         transition-transform transform uppercase hover:scale-105 duration-300
         md:w-[150px]
         flex items-center justify-center"
