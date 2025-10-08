@@ -101,12 +101,12 @@ export default function Header() {
 								Register
 							</Link>
 						</div>
-						<button
+						{/* <button
 							className="md:hidden text-white"
 							onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
 						>
 							<Menu />
-						</button>
+						</button> */}
 					</div>
 				</div>
 			</motion.div>

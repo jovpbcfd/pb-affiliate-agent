@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
 	return (
@@ -23,6 +24,19 @@ export default function Home() {
 					<br />
 					<span className="text-white font-semibold md:text-[20px]">@henry202577</span>
 				</h1>
+			</div>
+			<div className="max-w-[150px] mx-auto pb-10 md:hidden">
+				<Link
+						href="https://pb888.pro/RjkESd"
+						className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)]
+        w-full
+         py-[7px] rounded-full shadow-md text-center lg:px-3
+        transition-transform transform uppercase hover:scale-105 duration-300
+        md:w-[150px]
+        flex items-center justify-center font-semibold"
+					>
+						Register
+					</Link>
 			</div>
 		</div>
 	);
