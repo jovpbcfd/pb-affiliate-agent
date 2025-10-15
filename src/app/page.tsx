@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+// import Link from "next/link";
 
 export default function Home() {
 	return (
@@ -26,8 +26,10 @@ export default function Home() {
 				</div>
 			</div>
 			<div className="max-w-[150px] mx-auto pb-2 md:hidden">
-				<Link
+				<a
 						href="https://panalobet787.com/af/VHgv3130/join"
+						 target="_blank"
+                         rel="noopener noreferrer"
 						className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)]
         w-full
          py-[7px] rounded-full shadow-md text-center lg:px-3
@@ -36,7 +38,7 @@ export default function Home() {
         flex items-center justify-center font-semibold"  
 					>
 						Register
-					</Link>
+					</a>
 			</div>
 			<div className="max-w-[1000px] mx-auto text-center mt-4 md:mt-0 md:mb-8">
 					<p className="text-white md:text-xl">When messaging me, please <span className="text-[#ffe400]">provide a screenshot of your text message.</span></p>
