@@ -27,7 +27,7 @@ export default function Home() {
 			</div>
 			<div className="max-w-[150px] mx-auto pb-2 md:hidden">
 				<a
-						href="https://panalobet787.com/af/VHgv3130/join"
+						href="https://panalobetpartners.com/page/affiliate/login.jsp"
 						 target="_blank"
                          rel="noopener noreferrer"
 						className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)]
