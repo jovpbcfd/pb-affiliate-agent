@@ -90,9 +90,10 @@ export default function Header() {
               >
                 SIGNUP
               </Link> */}
-							<Link
+							<a
 								href="https://panalobet787.com/af/VHgv3130/join"
                 target="_blank"
+                rel="noopener noreferrer"
 								className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)] px-4 py-1 rounded-full shadow-md text-center
                             transition-transform transform uppercase hover:scale-105 duration-300
                             md:w-[150px]
@@ -100,7 +101,7 @@ export default function Header() {
                             "
 							>
 								Register
-							</Link>
+							</a>
 						</div>
 						{/* <button
 							className="md:hidden text-white"
@@ -133,9 +134,10 @@ export default function Header() {
           >
             SIGNUP
           </Link> */}
-					<Link
+					<a
 						href="https://panalobet787.com/af/VHgv3130/join"
             target="_blank"
+            rel="noopener noreferrer"
 						className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)]
         w-full
          py-2 rounded-full shadow-md text-center lg:px-4
@@ -144,7 +146,7 @@ export default function Header() {
         flex items-center justify-center"
 					>
 						Register
-					</Link>
+					</a>
 				</div>
 			</div>
 
