@@ -91,7 +91,7 @@ export default function Header() {
                 SIGNUP
               </Link> */}
 							<Link
-								href="https://pb888.pro/RjkESd"
+								href="https://panalobet787.com/af/VHgv3130/join"
 								className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)] px-4 py-1 rounded-full shadow-md text-center
                             transition-transform transform uppercase hover:scale-105 duration-300
                             md:w-[150px]
@@ -133,7 +133,7 @@ export default function Header() {
             SIGNUP
           </Link> */}
 					<Link
-						href="https://pb888.pro/RjkESd"
+						href="https://panalobet787.com/af/VHgv3130/join"
 						className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)]
         w-full
          py-2 rounded-full shadow-md text-center lg:px-4
