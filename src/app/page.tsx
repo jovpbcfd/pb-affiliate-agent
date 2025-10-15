@@ -40,9 +40,9 @@ export default function Home() {
 						Register
 					</a>
 			</div>
-			<div className="max-w-[1000px] mx-auto text-center mt-4 md:mt-0 md:mb-8">
+			{/* <div className="max-w-[1000px] mx-auto text-center mt-4 md:mt-0 md:mb-8">
 					<p className="text-white md:text-xl">When messaging me, please <span className="text-[#ffe400]">provide a screenshot of your text message.</span></p>
-			</div>
+			</div> */}
 			<div className="max-w-[600px] mx-auto mb-10 flex flex-col items-center gap-y-6 md:flex-row md:gap-x-3 text-center mt-4 md:mt-5">
 				<div>
 					 <h3 className="mb-2 leading-5 md:leading-[28px] text-[#ffe400] text-md md:text-[1.4rem] font-bold md:font-extrabold">INVITE PLAYERS</h3>
