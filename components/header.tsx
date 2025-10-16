@@ -91,7 +91,7 @@ export default function Header() {
                 SIGNUP
               </Link> */}
 							<a
-								href="https://panalobetpartners.com/page/affiliate/login.jsp"
+								href="https://panalobetpartners.com/saf/VHgv3130"
                 target="_blank"
                 rel="noopener noreferrer"
 								className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)] px-4 py-1 rounded-full shadow-md text-center
@@ -135,7 +135,7 @@ export default function Header() {
             SIGNUP
           </Link> */}
 					<a
-						href="https://panalobetpartners.com/page/affiliate/login.jsp"
+						href="https://panalobetpartners.com/saf/VHgv3130"
             target="_blank"
             rel="noopener noreferrer"
 						className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)]
